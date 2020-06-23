@@ -1,0 +1,17 @@
+{
+  "name": "aoe2counters",
+  "displayName": "aoe2counters",
+  "expo": {
+    "name": "aoe2counters",
+    "slug": "aoe2counters",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
